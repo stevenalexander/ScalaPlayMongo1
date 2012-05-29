@@ -29,3 +29,7 @@ Dev in Intellij
 	3. In Project Structure, add Module
 	4. import existing module "scalaplaymongo.iml"
 3. Add *.iml to gitignore, edit with "sudo open -t .gitignore"
+4. Work through http://localhost:9000/@documentation/ScalaTodoList - Handling the form submission
+5. TODO Debug on Intellij
+
+TODO Dev add Mongo  
